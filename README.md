@@ -1,0 +1,10 @@
+-----TERRA LEGENDS : MYTHOS------
+A text based novel game project.
+I made it for my Uni project, still in development, and made by Me.
+
+Assets I used (credit):
+-Honkai Star Rail
+-Terraria
+-Deltarune
+
+Don't expect anything grand, this is just me experimenting and learning how coding works
