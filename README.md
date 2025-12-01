@@ -6,5 +6,6 @@ Assets I used (credit):
 -Honkai Star Rail
 -Terraria
 -Deltarune
+-Touhou
 
 Don't expect anything grand, this is just me experimenting and learning how coding works
